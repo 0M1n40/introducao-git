@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 passo a passo git
 
 git init - inicializa um repositório git local
@@ -18,3 +19,8 @@ git checkout -b = cria uma branch
 
 git checkout nome_da_branch = muda para a branch escolhida
 
+=======
+branch dev 
+
+git checkout dev
+>>>>>>> dev
