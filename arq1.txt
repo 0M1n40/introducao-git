@@ -1,2 +1,20 @@
-oi
-tudo bem
+passo a passo git
+
+git init - inicializa um repositório git local
+
+git add . - ou git add nome_de_arquivo = adiciona as alterações ao índice
+
+git commit -m "mensagem do commit" = cria um novo commit coma  mensagem decrita
+
+git remote add origin URL_do_repositório = adiciona o repositório remoto como origem
+
+git push -u origin nome_da_branch =  envia o codigo para  o GitHub
+
+git branch -M main- renomeia a branch principal (main)
+
+cntrl + L = limpa o terminal
+
+git checkout -b = cria uma branch
+
+git checkout nome_da_branch = muda para a branch escolhida
+
